@@ -1,0 +1,1 @@
+class Cheque(var valor : Double, val banco: String, val data: String)
